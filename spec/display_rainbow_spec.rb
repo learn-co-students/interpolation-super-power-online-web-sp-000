@@ -1,4 +1,4 @@
-describe '#display_rainbow' do
+describe '#disc' do
   it 'accepts one argument' do
     colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
