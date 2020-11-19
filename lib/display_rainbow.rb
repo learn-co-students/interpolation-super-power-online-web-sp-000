@@ -1,7 +1,4 @@
-def display_rainbow
- puts colours
+def display_rainbow(colours)
 end
 
-colours = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
-
-display_rainbow
+display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
